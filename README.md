@@ -97,9 +97,32 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulatif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulatif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ashrafulatif&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <picture>
+    <!-- Light Mode Stats -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ashrafulatif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" />
+    <!-- Dark Mode Stats -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashrafulatif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" />
+    <!-- Fallback Image -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ashrafulatif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  </picture>
+  
+  <picture>
+    <!-- Light Mode Languages -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulatif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" />
+    <!-- Dark Mode Languages -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulatif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" />
+    <!-- Fallback Image -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulatif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph" />
+  </picture>
+  
+  <picture>
+    <!-- Light Mode Streak -->
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ashrafulatif&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" />
+    <!-- Dark Mode Streak -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ashrafulatif&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" />
+    <!-- Fallback Image -->
+    <img src="https://streak-stats.demolab.com?user=ashrafulatif&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  </picture>
 </div>
 
 ###
