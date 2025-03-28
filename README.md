@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="gif" />
+  <img height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVpazJrMjVucTY4dTJ3ZzJjMHpjYjBrenMxMmlpZXNjenRkNzNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="gif" />
 </div>
 
 ###
@@ -36,8 +36,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/ashrafulhaque08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:ashrafulhaque08@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
