@@ -15,17 +15,6 @@
   <img height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVpazJrMjVucTY4dTJ3ZzJjMHpjYjBrenMxMmlpZXNjenRkNzNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="gif" />
 </div>
 
-###
-
-<h1></h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ashrafulatif/count.svg?"  />
-</div>
-
-###
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -35,7 +24,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ashrafulhaque08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -84,4 +73,8 @@
   </picture>
 </div>
 
-###
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ashrafulatif/count.svg" alt="Visitor Count" />
+</div>
