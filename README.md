@@ -11,12 +11,8 @@
 
 ###
 
-<div align="center">
-  <img height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVpazJrMjVucTY4dTJ3ZzJjMHpjYjBrenMxMmlpZXNjenRkNzNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="gif" />
-</div>
-
-
 <h2 align="left">👨‍💻 About Me</h2>
+<img align="right" height="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ozdXVkMzJ4NDVpZzR6enY2dWZubmkxOGhkM24wMDAwMHA1YWE5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
 
